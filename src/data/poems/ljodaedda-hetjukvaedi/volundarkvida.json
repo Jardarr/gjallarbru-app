@@ -43,7 +43,7 @@
         "id": "3",
         "type": "prose",
         "lines": [
-          "II Bræðr vóru þrír, synir Finna konungs. Hét einn Slagfiðr, annarr Egill, þriði Völundr. Þeir skriðu ok veiddu dýr. Þeir kvómu í Úlfdali ok gerðu ‖ sér þar hús. Þar er vatn er heitir Úlfsjár. Snemma of morgin fundu þeir á vatns ströndu konur þrjár ok spunnu lín. Þar vóru hjá þeim álftar hamir þeira; það vóru valkyrjur. Þar vóru tvær dætr Hlöðvés konungs, Hlaðguðr svanhvít ok Hervör alvitr; in þriðja var Ölrún Kjárs dóttir af Vallandi. Þeir höfðu þær heim til skála með sér. Fekk Egill Ölrúnar en Slagfiðr Svanhvítrar en Völundr Alvitrar. Þau bjoggu sjau vetr. Þá flugu þær að vitja víga ok kvómu eigi aftr. Þá skreið Egill að leita Ölrúnar en Slagfiðr leitaði Svanhvítrar en Völundr sat í Úlfdölum. Hann var hagastr maðr, svá að menn viti, í fornum sögum. Níðuðr konungr lét hann höndum taka svá sem hér er um kveðið:"
+          "II Bræðr vóru þrír, synir Finna konungs. Hét einn Slagfiðr, annarr Egill, þriði Völundr. Þeir skriðu ok veiddu dýr. Þeir kvómu í Úlfdali ok gerðu sér þar hús. Þar er vatn er heitir Úlfsjár. Snemma of morgin fundu þeir á vatns ströndu konur þrjár ok spunnu lín. Þar vóru hjá þeim álftar hamir þeira; það vóru valkyrjur. Þar vóru tvær dætr Hlöðvés konungs, Hlaðguðr svanhvít ok Hervör alvitr; in þriðja var Ölrún Kjárs dóttir af Vallandi. Þeir höfðu þær heim til skála með sér. Fekk Egill Ölrúnar en Slagfiðr Svanhvítrar en Völundr Alvitrar. Þau bjoggu sjau vetr. Þá flugu þær að vitja víga ok kvómu eigi aftr. Þá skreið Egill að leita Ölrúnar en Slagfiðr leitaði Svanhvítrar en Völundr sat í Úlfdölum. Hann var hagastr maðr, svá að menn viti, í fornum sögum. Níðuðr konungr lét hann höndum taka svá sem hér er um kveðið:"
         ],
         "placeholder": false
       },
@@ -165,7 +165,7 @@
         "number": "7.",
         "lines": [
           "Stigu ór söðlum",
-          "að salar gafli, ‖",
+          "að salar gafli,",
           "gengu inn þaðan",
           "endlangan sal,",
           "sá þeir á bast",
@@ -425,7 +425,7 @@
           "um gefið verða.",
           "Segiða meyjum",
           "né salþjóðum,",
-          "manni öngum, ‖",
+          "manni öngum,",
           "að ið mik fyndið!»"
         ],
         "placeholder": false
@@ -673,7 +673,7 @@
           "né svá öflugr",
           "að þik neðan skjóti",
           "þar er þú skollir",
-          "við ský uppi!» ‖"
+          "við ský uppi!»"
         ],
         "placeholder": false
       },

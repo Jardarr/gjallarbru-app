@@ -109,7 +109,7 @@
         "number": "5.",
         "lines": [
           "[Fáfnir kvað:]",
-          "«Hverr þik hvatti, ‖",
+          "«Hverr þik hvatti,",
           "hví hvetjaz lézt,",
           "mínu fjörvi að fara?",
           "Inn fráneygi sveinn,",
@@ -374,7 +374,7 @@
         "id": "26",
         "type": "prose",
         "lines": [
-          "III Reginn var á brott horfinn meðan Sigurðr vá Fáfni ok kom þá aftr er Sigurðr strauk ‖ blóð af sverðinu. Reginn kvað:"
+          "III Reginn var á brott horfinn meðan Sigurðr vá Fáfni ok kom þá aftr er Sigurðr strauk blóð af sverðinu. Reginn kvað:"
         ],
         "placeholder": false
       },
@@ -619,7 +619,7 @@
         "lines": [
           "[In fimmta kvað:]",
           "«Er at svá horskr",
-          "hildi‖meiðr",
+          "hildimeiðr",
           "sem ek hers jaðar",
           "hyggja mynda k",
           "ef hann bróður lætr",
