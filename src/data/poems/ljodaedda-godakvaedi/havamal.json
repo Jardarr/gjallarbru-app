@@ -238,7 +238,7 @@
         "lines": [
           "Þagalt ok hugalt",
           "skyli þjóðans barn",
-          "ok vígdjarft vera; ‖",
+          "ok vígdjarft vera;",
           "glaðr ok reifr",
           "skyli gumna hverr",
           "unz sinn bíðr bana."
@@ -467,7 +467,7 @@
           "sá er flótta tekr",
           "gestr að gest hæðinn;",
           "veit a görla",
-          "sá er um verði ‖ glissir",
+          "sá er um verði glissir",
           "þótt hann með grömum glami."
         ],
         "placeholder": false
@@ -730,7 +730,7 @@
         "number": "50.",
         "lines": [
           "Hrörnar þöll",
-          "sú ‖ er stendr þorpi á,",
+          "sú er stendr þorpi á,",
           "hlýr at henni börkr né barr;",
           "svá er maðr",
           "sá er manngi ann;",
@@ -995,7 +995,7 @@
         "number": "69.",
         "lines": [
           "Er at maðr allz vesall",
-          "þótt hann sé illa heill: ‖",
+          "þótt hann sé illa heill:",
           "Sumr er af sonum sæll,",
           "sumr af frændum,",
           "sumr af fé ærnu,",
@@ -1263,7 +1263,7 @@
         "type": "stanza",
         "number": "88.",
         "lines": [
-          "akri ár ‖ sánum",
+          "akri ár sánum",
           "trúi engi maðr",
           "né til snemma syni;",
           "veðr ræðr akri",
@@ -1499,7 +1499,7 @@
         "type": "stanza",
         "number": "104.",
         "lines": [
-          "Inn aldna jötun ‖ ek sótta;",
+          "Inn aldna jötun ek sótta;",
           "nú em ek aftr um kominn;",
           "fátt gat ek þegjandi þar;",
           "mörgum orðum",
@@ -1794,7 +1794,7 @@
         "number": "123.",
         "lines": [
           "því að af illum manni",
-          "mund u aldregi ‖",
+          "mund u aldregi",
           "góðs laun um geta",
           "en góðr maðr",
           "mun þik gjörva mega",
@@ -2111,7 +2111,7 @@
           "Rúnar munt þú finna",
           "ok ráðna stafi,",
           "mjök stóra stafi,",
-          "mjök ‖ stinna stafi",
+          "mjök stinna stafi",
           "er fáði fimbulþulr",
           "ok gjörðu ginnregin",
           "ok reist hroftr rögna."
@@ -2384,7 +2384,7 @@
         "lines": [
           "Það kann ek ið sextánda,",
           "ef ek vil ins svinna mans",
-          "hafa geð allt ok ‖ gaman,",
+          "hafa geð allt ok gaman,",
           "hugi ek hverfi",
           "hvítarmri konu",
           "ok sný ek hennar öllum sefa."

@@ -170,7 +170,7 @@
         "id": "13",
         "type": "prose",
         "lines": [
-          "VI Konungr bað að þeir skyldu fara annað sinn; fór hann sjálfr. En er þeir kómu upp á fjall ok sá á Svávaland landsbruna ok jóreyki stóra. Reið konungr af fjallinu fram í landið ok tók nátt­ból við á eina. Atli helt vörð ok fór yfir ána. Hann fann eitt hús. Fugl mikill sat á húsinu ok gætti ok var sofnaðr. Atli ska­utspjóti fuglinn til bana en í hús­ inu fann hann Sigrlinn  ‖ kon­ungs dóttur ok Álöfu jarls dót­tur ok hafði þær báðar braut með sér. Fránmarr jarl hafði ha­maz í arnar líki ok varið þær fyr hernum með fjöl­kynngi."
+          "VI Konungr bað að þeir skyldu fara annað sinn; fór hann sjálfr. En er þeir kómu upp á fjall ok sá á Svávaland landsbruna ok jóreyki stóra. Reið konungr af fjallinu fram í landið ok tók nátt­ból við á eina. Atli helt vörð ok fór yfir ána. Hann fann eitt hús. Fugl mikill sat á húsinu ok gætti ok var sofnaðr. Atli ska­utspjóti fuglinn til bana en í hús­ inu fann hann Sigrlinn kon­ungs dóttur ok Álöfu jarls dót­tur ok hafði þær báðar braut með sér. Fránmarr jarl hafði ha­maz í arnar líki ok varið þær fyr hernum með fjöl­kynngi."
         ],
         "placeholder": false
       },
@@ -371,7 +371,7 @@
         "type": "stanza",
         "number": "16.",
         "lines": [
-          "«Atli ek heiti, ‖",
+          "«Atli ek heiti,",
           "atall skal ek þér vera,",
           "mjök em ek gífrum gramastr;",
           "úrgan stafn",
@@ -596,7 +596,7 @@
           "á landi ok á vatni",
           "borgið er öðlings flota",
           "ok siklings mönnum",
-          "ið sama!» ‖"
+          "ið sama!»"
         ],
         "placeholder": false
       },
@@ -797,7 +797,7 @@
           "[Sváfa kvað:]",
           "«Hvað varð Helga",
           "Hjörvarðs syni?",
-          "Mér er harðliga ‖",
+          "Mér er harðliga",
           "harma leitað!",
           "Ef hann sær um lék",
           "eða sverð um beit,",
